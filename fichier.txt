@@ -1,14 +1,4 @@
-Main version
-New branch v2
+Assure-toi que ta branche main est à jour :
 
-Main version
-New branch v3
-
-Main version
-New branch v4
-
-Main version
-New branch v5
-
-Main version
-New branch v6
+git checkout main          # Bascule sur main
+git pull origin main        # Récupère les derniers changements de main
