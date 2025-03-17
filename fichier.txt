@@ -1,5 +1,7 @@
-Le code est le cœur des technologies modernes, 
-il permet de donner vie à des idées en transformant 
-des instructions écrites en actions exécutables par un ordinateur. 
-C'est un langage que les machines comprennent, 
-un moyen pour les humains de communiquer avec les systèmes informatiques
+En résumé :
+
+Après avoir utilisé git add <fichier_conflit>, tu continues le rebase avec git rebase --continue au lieu de faire un commit.
+Git va appliquer les changements et si nécessaire, il te demandera de résoudre d'autres conflits.
+Pourquoi Git te demande de faire un commit ?
+
+    Git te demande de valider les résolutions de conflits après chaque étape du rebase, mais au lieu de faire un commit classique, il te demande de continuer le rebase avec git rebase --continue.
