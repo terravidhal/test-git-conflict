@@ -1,3 +1,2 @@
-Pourquoi Git te demande de faire un commit ?
-
-    Git te demande de valider les résolutions de conflits après chaque étape du rebase, mais au lieu de faire un commit classique, il te demande de continuer le rebase avec git rebase --continue.
+WebRTC s'assure que le téléphone Android et le PC sont capables de se connecter via le réseau Wi-Fi local.
+Lorsque l'utilisateur sélectionne un fichier à envoyer, il envoie ce fichier via WebRTC directement au PC.
