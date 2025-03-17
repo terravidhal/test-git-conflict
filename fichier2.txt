@@ -1,3 +1,3 @@
-Bascule sur ta branche de travail (par exemple, test) :
+Pourquoi Git te demande de faire un commit ?
 
-git checkout test           # Bascule sur ta branche test
+    Git te demande de valider les résolutions de conflits après chaque étape du rebase, mais au lieu de faire un commit classique, il te demande de continuer le rebase avec git rebase --continue.
