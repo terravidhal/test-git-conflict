@@ -1,14 +1,14 @@
-Version principale
-nouvelle branche v2
+Main version
+New branch v2
 
-Version principale
-nouvelle branche v3
+Main version
+New branch v3
 
-Version principale
-nouvelle branche v4
+Main version
+New branch v4
 
-Version principale
-nouvelle branche v5
+Main version
+New branch v5
 
-Version principale
-nouvelle branche v6
+Main version
+New branch v6
