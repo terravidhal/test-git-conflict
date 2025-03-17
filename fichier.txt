@@ -1,4 +1,5 @@
-Assure-toi que ta branche main est à jour :
-
-git checkout main          # Bascule sur main
-git pull origin main        # Récupère les derniers changements de main
+Le code est le cœur des technologies modernes, 
+il permet de donner vie à des idées en transformant 
+des instructions écrites en actions exécutables par un ordinateur. 
+C'est un langage que les machines comprennent, 
+un moyen pour les humains de communiquer avec les systèmes informatiques
